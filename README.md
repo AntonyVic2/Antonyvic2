@@ -1,4 +1,4 @@
-## Olá! Me chamo Antony, um estudante de programação!
+
 
 - 🎓 Estudante de TI
 - 📊 Estudante de Ciencias de Dados
