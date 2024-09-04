@@ -1,5 +1,3 @@
-
-
 - 🎓 Estudante de TI
 - 📊 Estudante de Ciências de Dados
 
