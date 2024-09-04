@@ -1,7 +1,7 @@
 
 
 - 🎓 Estudante de TI
-- 📊 Estudante de Ciencias de Dados
+- 📊 Estudante de Ciências de Dados
 
 <div>
   <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Antonyvic2&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
