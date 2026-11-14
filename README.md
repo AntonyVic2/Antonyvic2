@@ -76,8 +76,5 @@ const antony = {
 
 ## 📊 Atividade
 
-<p align="center">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonyVic2&background=1A0E13&stroke=4A1F2B&ring=E5566F&fire=E8B56A&currStreakLabel=E5566F&sideLabels=F6E7DC&currStreakNum=F6E7DC&sideNums=F6E7DC&dates=B89A92">
-</p>
+<p align="center"><img src="assets/atividade.svg" alt="Atividade no GitHub no último ano" width="100%"></p>
 
-<p align="center"><img src="assets/footer.svg" alt="" width="100%"></p>
