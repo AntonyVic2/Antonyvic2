@@ -73,11 +73,7 @@ Gosto do caminho inteiro: limpar e analisar o dado, modelar e depois escrever o 
 
 ## 📊 Atividade
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonyVic2&bg_color=1A0E13&color=F6E7DC&line=E5566F&point=E8B56A&area=true&area_color=E5566F&hide_border=true&title=Contribui%C3%A7%C3%B5es" width="100%"></p>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AntonyVic2&show_icons=true&hide_rank=true&theme=custom&bg_color=1A0E13&title_color=E5566F&text_color=F6E7DC&icon_color=E8B56A&border_color=4A1F2B&hide_border=false">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyVic2&layout=compact&theme=custom&bg_color=1A0E13&title_color=E5566F&text_color=F6E7DC&icon_color=E8B56A&border_color=4A1F2B&hide_border=false">
+<p align="center">
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonyVic2&background=1A0E13&stroke=4A1F2B&ring=E5566F&fire=E8B56A&currStreakLabel=E5566F&sideLabels=F6E7DC&currStreakNum=F6E7DC&sideNums=F6E7DC&dates=B89A92">
 </p>
 
