@@ -72,7 +72,6 @@ const antony = {
 
 <p align="center">
 <a href="https://github.com/AntonyVic2/vencord-mobilestatus"><img src="assets/proj-mobilestatus.svg" alt="Mobilestatus: Plugin do Vencord: Discord do PC aparece como celular" width="49%"></a>
-<a href="https://github.com/AntonyVic2/imobbase-crm"><img src="assets/proj-imobbase.svg" alt="Imobbase: CRM para corretores com funil de leads" width="49%"></a>
 <a href="https://github.com/AntonyVic2/seguranca-em-um-clique"><img src="assets/proj-seguranca.svg" alt="Segurança 1 Clique: App Python + Arduino de segurança para mulheres" width="49%"></a>
 <a href="https://github.com/AntonyVic2/bot-discord-js"><img src="assets/proj-bot.svg" alt="Bot Discord: Bot em Node.js: utilidades, notas, música e snipe" width="49%"></a>
 <img src="assets/proj-pokemod.svg" alt="Pokemod: Bot de Discord código privado" width="49%">
