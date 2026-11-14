@@ -68,11 +68,16 @@ const antony = {
 <img src="https://img.shields.io/badge/n8n-1A0E13?style=for-the-badge&logo=n8n&logoColor=E5566F">
 <img src="https://img.shields.io/badge/Linux-1A0E13?style=for-the-badge&logo=linux&logoColor=E5566F">
 
-## 📌 Repositórios públicos
+## 🗂️ Projetos
 
-- [**Discord**](https://github.com/AntonyVic2/Discord): bot em Node.js com comandos e banco de dados.
-- [**Projeto_Ceara_Cientifico**](https://github.com/AntonyVic2/Projeto_Ceara_Cientifico): projeto de ciência de dados em Python.
-- [**Testes**](https://github.com/AntonyVic2/Testes): experimentos em JavaScript com Vite e Docker.
+<p align="center">
+<a href="https://github.com/AntonyVic2/vencord-mobilestatus"><img src="assets/proj-mobilestatus.svg" alt="Mobilestatus: Plugin do Vencord: Discord do PC aparece como celular" width="49%"></a>
+<a href="https://github.com/AntonyVic2/imobbase-crm"><img src="assets/proj-imobbase.svg" alt="Imobbase: CRM para corretores com funil de leads" width="49%"></a>
+<a href="https://github.com/AntonyVic2/seguranca-em-um-clique"><img src="assets/proj-seguranca.svg" alt="Segurança 1 Clique: App Python + Arduino de segurança para mulheres" width="49%"></a>
+<a href="https://github.com/AntonyVic2/bot-discord-js"><img src="assets/proj-bot.svg" alt="Bot Discord: Bot em Node.js: utilidades, notas, música e snipe" width="49%"></a>
+<img src="assets/proj-pokemod.svg" alt="Pokemod: Bot de Discord código privado" width="49%">
+<img src="assets/proj-cherrii.svg" alt="Cherrii: Bot de Discord código privado" width="49%">
+</p>
 
 ## 📊 Atividade
 
