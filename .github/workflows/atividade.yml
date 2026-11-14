@@ -8,7 +8,7 @@ jobs:
   gerar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Gera o cartão (precisa do segredo PERFIL_TOKEN para contar contribuições privadas)
         run: |
           test -n "$GITHUB_TOKEN" || { echo "Falta o segredo PERFIL_TOKEN (token com read:user)"; exit 1; }
