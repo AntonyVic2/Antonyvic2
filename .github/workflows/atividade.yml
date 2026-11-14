@@ -9,9 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python scripts/atividade.py
+      - name: Gera o cartão (precisa do segredo PERFIL_TOKEN para contar contribuições privadas)
+        run: |
+          test -n "$GITHUB_TOKEN" || { echo "Falta o segredo PERFIL_TOKEN (token com read:user)"; exit 1; }
+          python scripts/atividade.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERFIL_TOKEN }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
