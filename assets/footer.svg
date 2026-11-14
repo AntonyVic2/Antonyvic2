@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" aria-hidden="true">
+<style>.w1{animation:m 14s linear infinite}.w2{animation:m 9s linear infinite reverse}@keyframes m{to{transform:translateX(-500px)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g class="w2" opacity=".35"><path d="M0 50 Q125 20 250 50 T500 50 T750 50 T1000 50 T1250 50 T1500 50 V90 H0Z" fill="#E5566F"/></g>
+<g class="w1"><path d="M0 62 Q125 36 250 62 T500 62 T750 62 T1000 62 T1250 62 T1500 62 V90 H0Z" fill="#1A0E13"/></g>
+</svg>
