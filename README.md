@@ -3,7 +3,7 @@
 <p align="center"><img src="assets/terminal.svg" alt="Terminal: hello world, sistema online, bem-vindo" width="100%"></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antony-victor-946465314/"><img src="https://img.shields.io/badge/LinkedIn-1A0E13?style=for-the-badge&logo=linkedin&logoColor=E5566F"></a>
+  <a href="https://www.linkedin.com/in/antonyyvic/"><img src="https://img.shields.io/badge/LinkedIn-1A0E13?style=for-the-badge&logo=linkedin&logoColor=E5566F"></a>
   <a href="https://www.youtube.com/@antonyvicc"><img src="https://img.shields.io/badge/YouTube-1A0E13?style=for-the-badge&logo=youtube&logoColor=E5566F"></a>
   <a href="https://www.instagram.com/antonyvicc/"><img src="https://img.shields.io/badge/Instagram-1A0E13?style=for-the-badge&logo=instagram&logoColor=E5566F"></a>
   <a href="https://discord.gg/z6TwHe2g"><img src="https://img.shields.io/badge/Discord-1A0E13?style=for-the-badge&logo=discord&logoColor=E5566F"></a>
