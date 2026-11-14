@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/top.svg" alt="" width="100%"></p>
-
 <p align="center"><img src="assets/header.svg" alt="Antony Victor — ciência de dados e engenharia de software" width="100%"></p>
 
 <p align="center"><img src="assets/terminal.svg" alt="Terminal: hello world, sistema online, bem-vindo" width="100%"></p>
@@ -25,18 +23,23 @@ const antony = {
 };
 ```
 
-Gosto do caminho inteiro: limpar e analisar o dado, modelar e depois escrever o software que coloca isso para funcionar. Os projetos da empresa e de clientes são privados, então não há código deles aqui.
 
 <p align="center"><img src="assets/cards.svg" alt="Áreas: dados, software, IA, automação" width="100%"></p>
 
-## 🧭 No que eu trabalho
+## 💼 Onde eu trabalho
 
-| | |
-|---|---|
-| **Análise e modelagem de dados** | Tratamento, exploração e modelos em Python e SQL para apoiar decisões de negócio. |
-| **Ferramentas de dados no mercado imobiliário** | Aplicação web que cruza mapa, custos e simulações para estudar a viabilidade de um terreno. |
-| **Automação e agentes de IA** | Rotinas e agentes conectados a CRM, planilhas, bancos de dados e APIs. |
-| **Engenharia de software** | Aplicações web em TypeScript e React, com banco de dados e deploy próprios. |
+**Grupo Bergano** · incorporadora
+- **Viabiliza**: estudo de viabilidade de terrenos, com o terreno desenhado no mapa, custos, simulação de lotes e maquete 3D.
+- **Intelligence**: painéis de dados para a diretoria acompanhar os números da empresa.
+- **Financeiro**: aprovação de despesas, tesouraria e custos de obra.
+
+**Villas Incorporadora** · Grupo Bergano
+- **Central Villas**: central de atendimento com agentes de IA no WhatsApp, que qualificam o contato e passam para a equipe na hora certa.
+
+**Reswe Digital** · HUB RW
+- CRM em GoHighLevel, automações, agentes de IA, campanhas no WhatsApp, auditorias e Meta Ads para clientes.
+
+> O código desses projetos é privado; aqui fica só o que eu faço em cada um.
 
 ## 🛠️ Stack
 
