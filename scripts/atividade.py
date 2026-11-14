@@ -42,10 +42,10 @@ def svg(total, semanas, atual, rec):
         for j, (d, c) in enumerate(w):
             dj = dt.date.fromisoformat(d).weekday(); r = (dj + 1) % 7
             cel.append(f'<rect class="c" style="animation-delay:{i*0.025:.2f}s" x="{x0+i*(C+G)}" y="{y0+r*(C+G)}" width="{C}" height="{C}" fill="{RAMPA[nivel(c,mx)]}"><title>{d}: {c}</title></rect>')
-    fogo = ["...X...", "..XX...", "..XXX.X", ".XXXXXX", "XXX.XXX", "XX...XX", "XX...XX", ".XXXXX."]
-    fx, fy = 470, 214
-    fpx = "".join(f'<rect x="{fx+c*4}" y="{fy+r*4}" width="4" height="4" fill="{"#E8B56A" if r<4 else "#E5566F"}"/>'
-                  for r, row in enumerate(fogo) for c, v in enumerate(row) if v == "X")
+    fogo = ["...R....", "..RR..R.", "..RRR.R.", ".RRRRRR.", ".RRYYRRR", "RRYYYYRR", "RRYYYYRR", ".RRRRRR."]
+    fx, fy = 466, 222                              # centrado na altura do número
+    fpx = "".join(f'<rect x="{fx+c*4}" y="{fy+r*4}" width="4" height="4" fill="{"#E8B56A" if v=="Y" else "#E5566F"}"/>'
+                  for r, row in enumerate(fogo) for c, v in enumerate(row) if v != ".")
     W, H = 900, 300
     leg = "".join(f'<rect x="{770+k*14}" y="{y0+7*(C+G)+8}" width="10" height="10" fill="{c}"/>' for k, c in enumerate(RAMPA))
     def bloco(x, num, rot):
