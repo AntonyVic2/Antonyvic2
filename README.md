@@ -76,5 +76,5 @@ const antony = {
 
 ## 📊 Atividade
 
-<p align="center"><img src="assets/atividade.svg" alt="Atividade no GitHub no último ano" width="100%"></p>
+<p align="center"><img src="assets/atividade.svg?v=3" alt="Atividade no GitHub no último ano" width="100%"></p>
 

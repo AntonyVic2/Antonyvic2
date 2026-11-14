@@ -42,9 +42,11 @@ def svg(total, semanas, atual, rec):
         for j, (d, c) in enumerate(w):
             dj = dt.date.fromisoformat(d).weekday(); r = (dj + 1) % 7
             cel.append(f'<rect class="c" style="animation-delay:{i*0.025:.2f}s" x="{x0+i*(C+G)}" y="{y0+r*(C+G)}" width="{C}" height="{C}" fill="{RAMPA[nivel(c,mx)]}"><title>{d}: {c}</title></rect>')
-    fogo = ["...R....", "..RR..R.", "..RRR.R.", ".RRRRRR.", ".RRYYRRR", "RRYYYYRR", "RRYYYYRR", ".RRRRRR."]
-    fx, fy = 466, 222                              # centrado na altura do número
-    fpx = "".join(f'<rect x="{fx+c*4}" y="{fy+r*4}" width="4" height="4" fill="{"#E8B56A" if v=="Y" else "#E5566F"}"/>'
+    fogo = ["....R....", "....RR...", "...RRR..R", "..RRRRR.R", ".RRRYRRRR", ".RRYYYRRR",
+            "RRYYYYYRR", "RRYYWYYRR", "RRYYWWYRR", ".RRYYYYR.", "..RRRRR.."]
+    cor = {"R": "#E5566F", "Y": "#E8B56A", "W": "#F6E7DC"}
+    fx, fy = 468, 221                              # 33 px de altura, centrado no número (cap 226-252)
+    fpx = "".join(f'<rect x="{fx+c*3}" y="{fy+r*3}" width="3" height="3" fill="{cor[v]}"/>'
                   for r, row in enumerate(fogo) for c, v in enumerate(row) if v != ".")
     W, H = 900, 300
     leg = "".join(f'<rect x="{770+k*14}" y="{y0+7*(C+G)+8}" width="10" height="10" fill="{c}"/>' for k, c in enumerate(RAMPA))
@@ -67,7 +69,7 @@ def svg(total, semanas, atual, rec):
 <text class="mono" x="740" y="{y0+7*(C+G)+17}" font-size="11" fill="#F6E7DC" fill-opacity=".5">−</text>{leg}<text class="mono" x="842" y="{y0+7*(C+G)+17}" font-size="11" fill="#F6E7DC" fill-opacity=".5">+</text>
 <rect x="40" y="200" width="{W-80}" height="1" fill="#4A1F2B"/>
 {bloco(40, total, "contribuições no ano")}
-<g class="f">{fpx}</g>{bloco(510, atual, "dias seguidos agora")}
+<g class="f">{fpx}</g>{bloco(506, atual, "dias seguidos agora")}
 {bloco(720, rec, "maior sequência")}
 </svg>'''
 
