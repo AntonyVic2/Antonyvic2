@@ -38,6 +38,7 @@ const antony = {
 
 **Reswe Digital** · HUB RW
 - CRM em GoHighLevel, automações, agentes de IA, campanhas no WhatsApp, auditorias e Meta Ads para clientes.
+- **Central de demandas**: extensão do Brave que lê os grupos de clientes no WhatsApp Web, transcreve os áudios no próprio PC e organiza os pedidos num painel, com alerta de pedido sem resposta.
 
 > O código desses projetos é privado; aqui fica só o que eu faço em cada um.
 
@@ -71,6 +72,7 @@ const antony = {
 ## 🗂️ Projetos
 
 <p align="center">
+<img src="assets/proj-demandas.svg" alt="Demandas: lê os grupos de clientes no WhatsApp, transcreve áudios e organiza pedidos" width="49%">
 <a href="https://github.com/AntonyVic2/vencord-mobilestatus"><img src="assets/proj-mobilestatus.svg" alt="Mobilestatus: Plugin do Vencord: Discord do PC aparece como celular" width="49%"></a>
 <a href="https://github.com/AntonyVic2/seguranca-em-um-clique"><img src="assets/proj-seguranca.svg" alt="Segurança 1 Clique: App Python + Arduino de segurança para mulheres" width="49%"></a>
 <a href="https://github.com/AntonyVic2/bot-discord-js"><img src="assets/proj-bot.svg" alt="Bot Discord: Bot em Node.js: utilidades, notas, música e snipe" width="49%"></a>
